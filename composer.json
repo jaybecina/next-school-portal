@@ -1,0 +1,6 @@
+{
+    "require": {
+        "league/flysystem": "^3.23",
+        "league/flysystem-aws-s3-v3": "^3.22"
+    }
+}

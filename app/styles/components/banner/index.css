@@ -1,0 +1,34 @@
+.swiper-slide-content {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+}
+
+.slide-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.slide-subtitle {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.button-container {
+  display: flex;
+  gap: 10px;
+}
+
+.apply-button,
+.contact-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.apply-button:hover,
+.contact-button:hover {
+  background-color: #0056b3;
+}
